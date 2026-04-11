@@ -1,0 +1,19 @@
+title: "VeinSint | OSINT Analyst"
+description: "Портфолио OSINT-аналитика"
+theme: minima
+
+author:
+  name: VeinSint
+  email: VeinSINT@email.com
+
+minima:
+  date_format: "%d.%m.%Y"
+
+header_pages:
+  - cases.md
+  - methodology.md
+  - tools.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

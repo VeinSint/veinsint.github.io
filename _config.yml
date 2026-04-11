@@ -1,12 +1,9 @@
 title: "VeinSint | OSINT Analyst"
 description: "Портфолио OSINT-аналитика"
-theme: minima
-
-author:
-  name: VeinSint
-  email: VeinSINT@email.com
+remote_theme: jekyll/minima@HEAD
 
 minima:
+  skin: dark
   date_format: "%d.%m.%Y"
 
 header_pages:

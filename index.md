@@ -18,6 +18,6 @@ title: Главная
 *Пока нет опубликованных кейсов...*
 
 ### Контакты
-- Telegram: @OdnaLishKrov
+- Telegram: [@Dak0taKot](https://t.me/@Dak0taKot)
 - Email: VeinSINT@gmail.com
 - GitHub: [VeinSint](https://github.com/VeinSint)

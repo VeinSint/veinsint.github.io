@@ -5,7 +5,7 @@ title: Главная
 
 ## Обо мне
 
-**OSINT Analyst || Digital Forensics**
+**OSINT Analyst|Digital Forensics**
 
 Привет! Я занимаюсь анализом открытых источников, цифровой криминалистикой и расследованиями.
 
